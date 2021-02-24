@@ -1,0 +1,4 @@
+baseURL = "https://piano-pianoqui.vercel.app"
+languageCode = "en-us"
+title = "Piano Sheet Music For Someone"
+theme = "hugo-theme-minos"
